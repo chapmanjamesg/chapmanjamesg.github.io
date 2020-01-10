@@ -864,3 +864,8 @@ body:after {
     color: #888888; }
     .footer a:hover {
       color: #000; }
+
+  .img-size {
+    width: fit-content;
+    height: auto;
+  }
